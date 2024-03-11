@@ -1,18 +1,14 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html><head lang="en">
-    <title>GNUstep.org</title>
     <link href="README_files/bootstrap.min.css" rel="stylesheet">
     <link href="README_files/bs-theme-gnustep.css" rel="stylesheet">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="Content-type" content="text/html; charset=UTF-8">
     <link rel="SHORTCUT ICON" href="https://gnustep.github.io/images/gnustep-favicon.ico">
   </head>
+	# Java Bundle GNUStep
   <body>
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="README_files/jquery-1.10.2.min.js"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="README_files/bootstrap.min.js"></script>
-
+	  
     <nav class="navbar navbar-inverse" role="navigation">
       <!-- Brand and toggle get grouped for better mobile display -->
       <div class="navbar-header">
