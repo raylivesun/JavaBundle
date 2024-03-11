@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1710186121389
+Build-Jdk: 21.0.2
+Built-By: admin
+Bundle-Activator: netbeans.bundle.Activator
+Bundle-ManifestVersion: 2
+Bundle-Name: Bundle OSGi Bundle
+Bundle-SymbolicName: netbeans.Bundle
+Bundle-Version: 1.0.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Import-Package: org.osgi.framework;version="[1.6,2)"
+Tool: Bnd-1.50.0
