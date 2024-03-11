@@ -1,3 +1,4 @@
+# Java Bundle GNUStep
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html><head lang="en">
     <link href="README_files/bootstrap.min.css" rel="stylesheet">
@@ -6,8 +7,7 @@
     <meta http-equiv="Content-type" content="text/html; charset=UTF-8">
     <link rel="SHORTCUT ICON" href="https://gnustep.github.io/images/gnustep-favicon.ico">
   </head>
-	# Java Bundle GNUStep
-  <body>
+	  <body>
 	  
     <nav class="navbar navbar-inverse" role="navigation">
       <!-- Brand and toggle get grouped for better mobile display -->
